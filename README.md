@@ -1,6 +1,6 @@
 # MazeECE
 
-Petit projet C pour générer/faire fonctionner un labyrinthe (projet étudiant).
+Projet C pour générer/faire fonctionner un labyrinthe en mode console.
 
 ## Description
 
